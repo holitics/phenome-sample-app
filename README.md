@@ -23,7 +23,7 @@ $ cd phenome-sample-app
 
 create a base INI file:
 ```
-$ cp sample_app/sample_app.ini.dist ./sample_app.ini.ini
+$ cp sample_app/sample_app.ini.dist ./sample_app.ini
 ```
 
 If you would like, you should edit this file and put in your Mail Server information, etc. It is pretty self-explanatory. Detailed documentation on the INI file forthcoming.
