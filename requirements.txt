@@ -1,0 +1,5 @@
+--extra-index-url https://api.packagr.app/AvVcpYfO2/
+
+# PACKAGES REQUIRED
+
+phenome-core>=1.0.401

@@ -1,0 +1,31 @@
+
+<!-- This is slide "1" -->
+
+{% extends "layout.html" %}
+{% block title %}Hello World!{% endblock %}
+{% block head %}
+  {{ super() }}
+{% endblock %}
+
+{% block nav_home_active %}active{% endblock %}
+
+{% block carousel_indicator_1 %}active{% endblock %} 
+{% block carousel_item_1 %}active{% endblock %}
+{% block content1 %}
+
+  <h1 class="mt-3 text-light">Hello World!</h1>
+  <p class="important">
+	
+	<div style="padding-top:200px; padding-left:20px;">
+	
+	<table id="infotable" class="infotable text-muted">
+		
+		<tr>
+			<td><h1>Cool Stuff Goes Here</h1></td>
+		</tr>
+
+	</table>
+	
+	</div>
+	
+{% endblock %}
