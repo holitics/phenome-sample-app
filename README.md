@@ -2,7 +2,7 @@
 
 The Sample App is based on the [Phenome AI](https://phenome.ai/) platform. It also depends on the [Phenome Extensions](https://github.com/holitics/phenome-extensions).
 
-For documentation of the Phenome Platform and API, please see the [Phenome AI Online Doc](https://holitics.github.io/holitics_core_agent/html/) 
+For documentation of the Phenome Platform and API, please see the [Phenome AI Online Doc](https://holitics.github.io/phenome-core-agent/html/) 
 
 SampleApp is a **Flask Application**. It has a REST API and a simple embedded UI interface. If you are familiar with Python, Flask and JSON, it's fairly easy to create your own application.
 
